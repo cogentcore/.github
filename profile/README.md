@@ -6,4 +6,4 @@
   Cogent Core
 </h1>
 
-A free and open source software ecosystem for all platforms, built around a powerful, fast, and cogent core framework allowing you to Code Once, Run Everywhere.
+A free and open source software ecosystem for all platforms, built around a powerful, fast, and cogent core framework that allows you to Code Once, Run Everywhere.
