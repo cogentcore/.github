@@ -1,2 +1,3 @@
 # .github
-GitHub profile information for Cogent Core
+
+GitHub profile information for Cogent Core.
