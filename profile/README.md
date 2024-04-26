@@ -5,4 +5,4 @@
     </a>
 </h1>
 
-Cogent Core is a free and open source software ecosystem for all platforms, built around a powerful, fast, and cogent framework that allows you to Code Once, Run Everywhere.
+Cogent Core is a free and open source software ecosystem for all platforms, built around a powerful, fast, and elegant framework that allows you to Code Once, Run Everywhere.
