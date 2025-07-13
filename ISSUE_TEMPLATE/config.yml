@@ -1,0 +1,6 @@
+contact_links:
+  - name: Community
+    url: https://www.cogentcore.org/community
+    about: See support resources, including Slack and our mailing list
+
+blank_issues_enabled: false
